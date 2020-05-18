@@ -1,4 +1,4 @@
 <?php
-    $array = ["HTML" , "CSS" , "JavaScript" , "PHP"];
+    $array = ["HTML" , "CSS" , "JavaScript" , "PHP","Git"];
     echo $array . "\n";
 ?>
